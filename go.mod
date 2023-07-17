@@ -1,4 +1,4 @@
-module github.com/PellePedro/dlvreload
+module github.com/pellepedro/dlvreload
 
 go 1.16
 
